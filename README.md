@@ -31,4 +31,3 @@
    - The bot response is added to `st.session_state.messages`.
    - It is displayed in the Streamlit chat interface.
 
-**Flow Summary:**
