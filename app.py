@@ -5,7 +5,7 @@ from openai import AsyncOpenAI
 from agents import Agent, OpenAIChatCompletionsModel, Runner, set_tracing_disabled
 import os
 from datetime import datetime
-os.environ["GEMINI_API_KEY"] = "AIzaSyAIhv0wg9_xq6eI7xXTTSrNfvctSkey1Yw"
+os.environ["GEMINI_API_KEY"] = ""
 
 # --- Agent and API Configuration ---
 # It's recommended to set the API key as an environment variable for security
